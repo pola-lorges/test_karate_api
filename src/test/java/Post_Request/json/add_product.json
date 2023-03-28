@@ -1,0 +1,28 @@
+{
+  "designation": "string",
+  "transmitter": "string",
+  "value_initial": 0,
+  "value_liquidity": 0,
+  "perfomance_hebdo": 0,
+  "maturity": "string",
+  "rate_of_return": 0,
+  "Annual_rate": 0,
+  "quantity": 0,
+  "Annual_return": 0,
+  "liquidity_frequency": [
+    "mensuel",
+    "hebdomadaire"
+  ],
+  "subscription_deadline_date": "2023-03-27T13:54:15.252Z",
+  "value_date": "2023-03-27T13:54:15.252Z",
+  "type": [
+    "action",
+    "obligation",
+    "bta",
+    "edc_cemac_bond_fund",
+    "fcp",
+    "opcvm",
+    "ota"
+  ],
+  "isActive": true
+}
