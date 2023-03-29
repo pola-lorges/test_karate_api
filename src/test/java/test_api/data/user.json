@@ -1,0 +1,16 @@
+{
+  "_id": "641b15358b679aadf33bf43e",
+  "first_name": "NGOLO",
+  "last_name": "Francine",
+  "email": "francine.okourou@gmail.com",
+  "birth_day": "1980-05-01T00:00:00.000Z",
+  "password": "$2b$10$zdprgzZtrzPWgJfvLcw2Pug27HiaTo.qRu1ue9BmHr0uI8wPtKvdy",
+  "phone": "696074191",
+  "role": [
+    "SuperAdmin"
+  ],
+  "isActive": true,
+  "isEmailConfirmed": true,
+  "isCreatedByAdmin": false,
+  "__v": 0
+}

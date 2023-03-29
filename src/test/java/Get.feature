@@ -12,10 +12,9 @@ Feature: Test get  Pesa
     Then status 200
     And print response
 
-  @Get_by_id
+  @Get_by_product_id
   Scenario: Test get product Pesa API
-    Given def  id = read("test_api/data/id_product.json")
-    And path "/api/v1/product/641b4e0c8b679aadf33bf558"
+    Given path "/api/v1/product/641b4e0c8b679aadf33bf558"
     When method GET
     Then status 200
     And print response
