@@ -4,7 +4,7 @@ Feature: Test add product Pesa
     * url "https://pesa-backend-production-2.up.railway.app"
     * def  auth = read("test_api/data/auth.json")
     * header Content-type = 'application/json'
-    * header Authorization = 'Bearer' + auth
+    * header Authorization = 'Bearer ' + auth
 
   @post_
   Scenario: Test add product Pesa API
