@@ -3,7 +3,7 @@ Feature: Test Delete Pesa
   Background:
     * url "https://pesa-backend-production-2.up.railway.app"
     * def  auth = read("test_api/data/add_product.json")
-    * header Authorization = 'Bearer ' + auth
+    * header Authorization = 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MWIxNTM1OGI2NzlhYWRmMzNiZjQzZSIsImlhdCI6MTY4MDEwMzE3NywiZXhwIjoxNjgwMTg5NTc3fQ.MmMHMsjX-sPrM1y4W0_e1PvFP8uGf1xiYywRX1W7jD4'
 
   @Delete_product_by_id
   Scenario: Test delete product Pesa API

@@ -1,16 +1,22 @@
+
+
 {
-  "_id": "641b15358b679aadf33bf43e",
-  "first_name": "NGOLO",
+  "first_name": "NGOLO update by Anthony with KARATE API",
   "last_name": "Francine",
   "email": "francine.okourou@gmail.com",
-  "birth_day": "1980-05-01T00:00:00.000Z",
-  "password": "$2b$10$zdprgzZtrzPWgJfvLcw2Pug27HiaTo.qRu1ue9BmHr0uI8wPtKvdy",
   "phone": "696074191",
+  "birth_day": "2023-03-30T10:14:57.099Z",
+  "password": 123456,
   "role": [
     "SuperAdmin"
   ],
   "isActive": true,
   "isEmailConfirmed": true,
   "isCreatedByAdmin": false,
-  "__v": 0
+  "last_password": 123456,
+  "socio_professional_category": "string",
+  "profession": "string",
+  "activity_area": "string",
+  "income": 0,
+  "contact_person": 0
 }
